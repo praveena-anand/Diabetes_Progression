@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE specific
+.vscode/
+.idea/
+.DS_Store
+
+# Environment
+.env
+.env.*
+
+# Data
+data/
+*.csv
+
